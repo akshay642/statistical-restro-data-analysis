@@ -1,5 +1,5 @@
 # Restaurant Menu Analysis R Script
-# Author: ABHISHEK N HIREMATH
+# Author: AKSHAY B
 # Date:15/09/2023 
 # Description: This script performs statistical analysis on restaurant menu data.
 
